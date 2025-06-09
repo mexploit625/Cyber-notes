@@ -42,7 +42,7 @@ Each octet can go from `00000000 (0)` to `11111111 (255)`
 - Helps in **subnetting**
 - Used in **network calculations**
 
-## These numbers can help decode the binary codes :
+## These numbers can help decode the binary codes (8 BITS):
   **128,64,32,16,8,4,2,1**
 
 ---
