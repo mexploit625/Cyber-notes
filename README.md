@@ -17,8 +17,9 @@
 ## 🧠 Networking Concepts Covered:
 - [×] OSI Model
 - [×] TCP vs UDP
+- [×] Binary basics
 - [×] IP Addressing
 - [×] Subnetting
 - [ ] NAT & Port Forwarding
-- [ ] DNS
+- [×]  DHCP-DNS
 - [ ] Common Protocols (HTTP, SSH, FTP...)
