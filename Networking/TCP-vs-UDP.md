@@ -1,5 +1,5 @@
 
-# TCP vs UDP — The Real Talk
+# TCP vs UDP -- The Need for Assurance vs The Freedom of Not Caring
 
 Alright, so here’s the deal with TCP and UDP. They’re both protocols that help computers talk to each other over the internet, but they do it in very different ways.
 
