@@ -20,6 +20,6 @@
 - [×] Binary basics
 - [×] IP Addressing
 - [×] Subnetting
-- [ ] NAT & Port Forwarding
+- [×] NAT & Port Forwarding
 - [×]  DHCP-DNS
-- [ ] Common Protocols (HTTP, SSH, FTP...)
+- [×] Common Protocols (HTTP, SSH, FTP...)
