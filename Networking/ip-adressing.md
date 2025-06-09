@@ -34,7 +34,7 @@ So: `11000000.10101000.00000000.00000001`
 
 ---
 
-## 🏡 Private IP Ranges:
+##  Private IP Ranges:
 
 Used inside homes, schools, offices (can’t be accessed from internet directly)
 
