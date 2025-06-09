@@ -24,7 +24,7 @@ Each number (called **octet**) = 8 bits.
 
 ---
 
-## 🧮 Convert Decimal to Binary (quick cheat)
+##  Convert Decimal to Binary (quick cheat)
 
 | Decimal | Binary     |
 |---------|------------|
@@ -37,7 +37,7 @@ Each octet can go from `00000000 (0)` to `11111111 (255)`
 
 ---
 
-## 📦 Why It Matters:
+## Why It Matters:
 - Needed to **understand IP addresses**
 - Helps in **subnetting**
 - Used in **network calculations**
