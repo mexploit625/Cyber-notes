@@ -2,11 +2,6 @@
 
 **My official journey into the world of cybersecurity.**
 
-## 📁 Coming Soon
-- Tools: Wireshark, Nmap, Burp Suite
-- Labs: TryHackMe, BlueTeamLabs
-- Projects: Basic SOC lab notes
-
 ■ Areas I'm focused on:
 - Cybersecurity Analyst fundamentals
 - Networking & SOC (Security Operations Center)
@@ -28,3 +23,8 @@
 - [×] NAT & Port Forwarding
 - [×]  DHCP-DNS
 - [×] Common Protocols (HTTP, SSH, FTP...)
+
+- ## 📁 Coming Soon
+- Tools: Wireshark, Nmap, Burp Suite
+- Labs: TryHackMe, BlueTeamLabs
+- Projects: Basic SOC lab notes
