@@ -3,7 +3,7 @@
 **My official journey into the world of cybersecurity.**
 ## ( Current Focus )
 - Cybersecurity Analyst fundamentals
-- Networking (OSI, TCP/IP, protocols)
+- 
 - SOC (Security Operations Center) concepts
 - Cloud Security (AWS, Azure – beginner level)
 - ---
