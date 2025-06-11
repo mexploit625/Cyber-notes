@@ -31,5 +31,4 @@
 
 - ## 📁 Coming Soon
 - Tools: Wireshark, Nmap, Burp Suite
-- Labs: TryHackMe, BlueTeamLabs
 - Projects: Basic SOC lab notes
