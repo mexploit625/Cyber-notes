@@ -27,4 +27,4 @@ They will be broken.**
 This isn't just learning. This is unlearning what safety feels like.  
 I won’t become what I study — but I’ll understand it better than it understands itself.  
 Because in this world, when it breaks…  
- **I’ll be the one who knows where the cracks begin.**
+ **I’ll be the one of the few who knows where the cracks begin.**
