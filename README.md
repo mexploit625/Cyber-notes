@@ -19,16 +19,43 @@
 
 ■ Learning everything from scratch, one step at a time.
 
-## 🧠 Networking Concepts Covered:
-- [×] OSI Model
-- [×] TCP vs UDP
-- [×] Binary basics
-- [×] IP Addressing
-- [×] Subnetting
-- [×] NAT & Port Forwarding
-- [×]  DHCP-DNS
-- [×] Common Protocols (HTTP, SSH, FTP...)
+# 🧠 Concepts Covered (So Far)
 
-- ## 📁 Coming Soon
-- Tools: Wireshark, Nmap, Burp Suite
-- Projects: Basic SOC lab notes
+###  Networking
+- ✅ OSI Model  
+- ✅ TCP vs UDP  
+- ✅ Binary Basics  
+- ✅ IP Addressing  
+- ✅ Subnetting  
+- ✅ NAT & Port Forwarding  
+- ✅ DHCP & DNS  
+- ✅ Common Protocols (HTTP, SSH, FTP...)
+
+###  Cybersecurity
+- ✅ DoS vs DDoS Attacks (Network & Application-level)  
+- ✅ Phishing Types (Email, SMS, Voice, Spear, Whaling)  
+- ✅ Social Engineering Techniques (Pretexting, Tailgating, Impersonation)  
+- ✅ Spam, Spim, Pharming, Credential Harvesting  
+- ✅ Identity Theft & Fraud  
+
+---
+
+##  Tools Coming Soon
+- Wireshark  
+- Nmap  
+- Burp Suite  
+
+##  Projects Coming Soon
+- Basic SOC Lab Setup  
+- Packet Analysis Logs  
+- Threat Detection Walkthroughs  
+
+---
+
+##  Journal Logs
+Tracking my daily learning journey  
+→ [journal-2025/june/](./journal-2025/june)
+
+---
+
+>  _"You don’t defend a system by standing still. You dissect it, understand it, then outsmart the ones trying to burn it down."_
