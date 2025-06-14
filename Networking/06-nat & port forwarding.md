@@ -4,16 +4,12 @@
 - NAT is used to translate private (local) IP addresses to a public IP address before packets are sent to the internet.
 - It helps preserve IPv4 addresses and adds a layer of security by hiding internal IPs.
 
-### 🔸 Types of NAT:
+###  Types of NAT:
 - **Static NAT** – One-to-one mapping between a private and public IP.
 - **Dynamic NAT** – Maps private IPs to any available public IP from a pool.
 - **PAT (Port Address Translation)** – Many-to-one. Multiple private IPs share one public IP using different port numbers. Also known as **NAT Overload**.
 
-### Example (PAT):
-| Private IP     | Public IP    | Port |
-|----------------|--------------|------|
-| 192.168.1.10 → | 101.45.2.30:1025 |
-| 192.168.1.11 → | 101.45.2.30:1026 |
+
 
 ---
 
@@ -29,13 +25,13 @@ A router receives a request on a public IP + port and forwards it to a specific 
 
 ---
 
-## 🔐 Why It Matters
+##  why is it matter?
 - NAT helps secure internal networks by masking internal IPs.
 - Port forwarding is necessary when services need to be reachable from outside — but must be done carefully to avoid vulnerabilities.
 
 ---
 
-## 🧠 Quick Summary
+##  Quick Summary
 | Term             | Purpose                               |
 |------------------|---------------------------------------|
 | NAT              | Translates private ↔ public IPs       |
