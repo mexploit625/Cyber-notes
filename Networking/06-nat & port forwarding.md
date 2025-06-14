@@ -1,4 +1,4 @@
-#  NAT & Port Forwarding
+ #  NAT & Port Forwarding
 
 ##  What is NAT (Network Address Translation)?
 - NAT is used to translate private (local) IP addresses to a public IP address before packets are sent to the internet.
