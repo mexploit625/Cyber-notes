@@ -54,7 +54,7 @@
 
 ##  Journal Logs
 Tracking my daily learning journey  
-→ [journal-2025/june/](./journal-2025/june)
+→ [JOURNAL-2025](./JOURNAL-2025)
 
 ---
 
